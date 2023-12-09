@@ -3,7 +3,7 @@
 ###  Hi there 👋, My Name Is Masud Sarder
 #### I AM REACT DEVELOPER
 
-I'm Masud Sarder, a passionate React Developer based in dhaka bangladesh. My journey in the world of coding began when 2021. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape.
+I'm Masud Sarder, a passionate React Developer based in dhaka bangladesh. My journey in the world of coding began when 2022. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape.
 a dedicated React developer with a passion for crafting seamless user experiences and building robust web applications. Based in [Your Location], I thrive on turning ideas into reality through the power of React and its ecosystem.
 
 
