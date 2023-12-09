@@ -1,11 +1,7 @@
-
+[![An old rock in the desert](/images/React%20Developer.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/hmmasudsarder/)
 
 ###  Hi there 👋, My Name Is Masud Sarder
 #### I AM REACT DEVELOPER
-
-
-![I AM FRONTEND DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
