@@ -28,9 +28,9 @@ a dedicated React developer with a passion for crafting seamless user experience
 </div>
 
 
-<h3 align="center">Top Used Languages</h3>
-<p align="center">
-<img align="center mb-10" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmasudsarder&show_icons=true&locale=en&layout=compact" alt="hmmasudsarder" />
+<h3 align="left">Top Used Languages</h3>
+<p align="left">
+<img align="left mb-10" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmasudsarder&show_icons=true&locale=en&layout=compact" alt="hmmasudsarder" />
 </p>
 
 ### 📈 GitHub Stats
