@@ -3,9 +3,9 @@
 ###  Hi there 👋, My Name Is Masud Sarder
 #### I AM REACT DEVELOPER
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## 👋 Hello, World!
 
-
+I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. My journey in the world of coding began when [Share a brief story about how you started coding or your main motivation]. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape.
 
 
 
@@ -20,16 +20,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 
-
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=hmmasudsarder)   -->
-
-
-
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmasudsarder&label=Profile%20views&color=0e75b6&style=flat" alt="hmmasudsarder" /> </p> -->
-
-
 <h3 align="left">Connect with me: Social </h3>
 <div align="left">
 <p align="left">
@@ -41,16 +31,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <h3 align="center">Top Used Languages</h3>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmasudsarder&show_icons=true&locale=en&layout=compact" alt="hmmasudsarder" />
+<img align="center mb-10" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmasudsarder&show_icons=true&locale=en&layout=compact" alt="hmmasudsarder" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hmmasudsarder&theme=default)
+### 📈 GitHub Stats
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YourGitHubUsername)
 
-<div align="center">
+<div align="center mt-10">
     <a href="https://git.io/streak-status">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=hmmasudsarder&theme" alit="GitHub Streak" width="800"/>
     </a>
 </div>
-
 
