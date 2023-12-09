@@ -43,7 +43,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <p align="left">
 <a href="https://linkedin.com/in/hmmasudsarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmmasudsarder" height="30" width="40" /></a>
 </p>
-<img align="right" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" alt="hmmasudsarder" width="400" />
+
 </div>
 
 
