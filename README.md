@@ -36,7 +36,7 @@ I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. 
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/YourGitHubUsername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?hmmasudsarder=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=j)](https://github.com/YourGitHubUsername)
 
 <div align="center mt-10">
     <a href="https://git.io/streak-status">
