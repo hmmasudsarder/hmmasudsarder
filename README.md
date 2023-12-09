@@ -5,7 +5,8 @@
 
 ## 👋 Hello, World!
 
-I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. My journey in the world of coding began when [Share a brief story about how you started coding or your main motivation]. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape.
+I'm Masud Sarder, a passionate React Developer based in dhaka bangladesh. My journey in the world of coding began when 2021. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape.
+a dedicated React developer with a passion for crafting seamless user experiences and building robust web applications. Based in [Your Location], I thrive on turning ideas into reality through the power of React and its ecosystem.
 
 
 
@@ -20,9 +21,9 @@ I'm [Your Name], a passionate [Your Profession/Title] based in [Your Location]. 
 
 
 
-<h3 align="left">Connect with me: Social </h3>
-<div align="left">
-<p align="left">
+<h3 align="center">Connect with me: Social </h3>
+<div align="center">
+<p align="center">
 <a href="https://linkedin.com/in/hmmasudsarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmmasudsarder" height="30" width="40" /></a>
 </p>
 
