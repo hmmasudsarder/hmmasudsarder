@@ -1,4 +1,4 @@
-[![An old rock in the desert](/images/React%20Developer%20(1).mp4 "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/hmmasudsarder/)
+[![An old rock in the desert](/images/React%20Developer.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/hmmasudsarder/)
 
 ###  Hi there 👋, My Name Is Masud Sarder
 #### I AM REACT DEVELOPER
