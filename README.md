@@ -19,7 +19,7 @@ a dedicated React developer with a passion for crafting seamless user experience
 
 
 
-<h3 align="center">Connect with me: Social </h3>
+<h3 align="left">Connect with me: Social </h3>
 <div align="center">
 <p align="center">
 <a href="https://linkedin.com/in/hmmasudsarder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmmasudsarder" height="30" width="40" /></a>
