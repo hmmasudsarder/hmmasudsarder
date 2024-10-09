@@ -29,6 +29,21 @@ a dedicated React developer with a passion for crafting seamless user experience
 </div>
 
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mizanmahi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=A%20Look%20at%20My%20Github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanmahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2&custom_title=Languages%20I%20code%20in%20most%20" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
 <h3 align="left">Top Used Languages</h3>
 <p align="center">
 <img align="left mb-10" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmmasudsarder&show_icons=true&locale=en&layout=compact" alt="hmmasudsarder" />
