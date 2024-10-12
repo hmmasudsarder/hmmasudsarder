@@ -31,7 +31,7 @@ a dedicated React developer with a passion for crafting seamless user experience
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> 📈  🔥   My Stats :</h3>
 
 ###
 
