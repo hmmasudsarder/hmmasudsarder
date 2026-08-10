@@ -1,13 +1,23 @@
 [![An old rock in the desert](/images/React%20Developer.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/hmmasudsarder/)
 
-###  Hi there 👋, My Name Is Masud Sarder
-#### I AM REACT DEVELOPER
+### Hi there 👋
+#### Full Stack Developer
 
-I'm Masud Sarder, a passionate React Developer based in dhaka bangladesh. My journey in the world of coding began when 2022. Since then, I've been on a continuous quest to expand my knowledge and contribute to the ever-evolving tech landscape. I try to learn something new everyday. is like node.js express mongos
-a dedicated React developer with a passion for crafting seamless user experiences and building robust web applications. Based in [Your Location], I thrive on turning ideas into reality through the power of React and its ecosystem.
+I am a passionate **Full Stack Developer** with **2 years of hands-on experience** building scalable and responsive web applications using the MERN stack (**MongoDB, Express.js, React.js, Node.js**). Based in Dhaka, Bangladesh, I specialize in developing RESTful APIs, implementing secure authentication (JWT, OAuth), and deploying applications on cloud environments.
+
+---
+
+### 💻 Professional Experience
+
+- **Junior Backend Developer** @ *SM Technology* `(Aug 2025 - Jul 2026)`
+  - Developed RESTful APIs using Node.js, Express.js, and Mongoose for a Sports Mentoring System.
+  - Implemented JWT authentication & role-based access control (Admin, Coach, Athlete).
+  - Handled secure video upload and storage using AWS (EC2 & S3).
+- **Junior Front-End Developer** @ *Silicornya LTD* `(Oct 2024 - Aug 2025)`
+  - Worked on bug fixing and adding new features to client-facing web apps.
+  - Built Company Website Dashboards & School Management Systems.
 
 
-- 🔭 I’m currently working on frontend developer in Silicoryna LTD 
 - 🌱 I’m currently learning C, C++
 - 💬 Ask me about javScript and react js nextjs
 
