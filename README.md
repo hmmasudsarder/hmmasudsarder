@@ -9,7 +9,7 @@ I am a passionate **Full Stack Developer** with **2 years of hands-on experience
 
 ### 💻 Professional Experience
 
-- **Junior Backend Developer** @ *SM Technology* `(Aug 2025 - Jul 2026)`
+- **Backend Developer** @ *SM Technology* `(Aug 2025 - Jul 2026)`
   - Developed RESTful APIs using Node.js, Express.js, and Mongoose for a Sports Mentoring System.
   - Implemented JWT authentication & role-based access control (Admin, Coach, Athlete).
   - Handled secure video upload and storage using AWS (EC2 & S3).
@@ -18,8 +18,8 @@ I am a passionate **Full Stack Developer** with **2 years of hands-on experience
   - Built Company Website Dashboards & School Management Systems.
 
 
-- 🌱 I’m currently learning C, C++
-- 💬 Ask me about javScript and react js nextjs
+- 🌱 I’m currently learning C, C++ and DSA
+- 💬 Ask me about javScript or TypeScript and MERN Stack
 
 <h3 align="left">MY Skills and I Knows :</h3>
 <p align="center"> 
